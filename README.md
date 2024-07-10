@@ -1,4 +1,4 @@
-# Hotel-Booking-Application
+# Hotel-Booking-Application UI Design
 The Hotel Booking Application is a meticulously crafted platform designed to streamline the process of finding and booking hotel rooms. The Application design create with Figma.
 Case Study of Hotel Booking Application:-
 About the Hotel Booking Application Design
